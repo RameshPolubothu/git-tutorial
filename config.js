@@ -1,1 +1,1 @@
-console.log('version3 config');
+console.log('version5 config');
